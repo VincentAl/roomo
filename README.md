@@ -59,5 +59,5 @@ Sur Vercel, configure l’URI de redirection Google : `https://ton-domaine.verce
 - `/coloc/[id]/stock` – Gestion stock (épuisé / OK)
 - `/coloc/[id]/settings` – Admin (membres, items, lien d’invitation)
 
-# STORY 
-Born in Flatmates.
+## Story
+A cool project born in Flatmates.
